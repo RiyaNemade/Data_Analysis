@@ -9,9 +9,13 @@ The Bank Loan Report Dashboard provides a comprehensive summary of loan applicat
 This section gives a high-level view of the loan applications and their classifications into Good Loans and Bad Loans.
 
 Total Loan Applications: 38.6K
+
 Total Funded Amount: $435.8M
+
 Total Amount Received: $473.1M
+
 Average Interest Rate: 12.05%
+
 Average DTI Ratio: 13.33%
 
 Good Loan Issued
