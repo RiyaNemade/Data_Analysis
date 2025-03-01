@@ -30,6 +30,9 @@ Percentage of Bad Loans: 13.82%
 
 A Loan Application Breakdown shows loans that are fully paid, charged off, or current, along with their respective funded amounts, amounts received, interest rates, and DTI ratios.
 
+![Dash1](https://github.com/user-attachments/assets/50a9b70e-bc80-4e44-97b6-4b7634606278)
+
+
 2. Overview Section
 
 The Overview section provides trend analysis and categorical breakdowns of loan applications.
@@ -59,6 +62,9 @@ Loan Applications by Term
 
 36 Months: 73%
 60 Months: 27%
+
+![Dash2](https://github.com/user-attachments/assets/a5528fdc-48d2-47d7-a65c-e1fe801ecccb)
+
 
 Conclusion
 
